@@ -28,3 +28,8 @@ BLACK-SPIDER-V1 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="
     </p>
 
 -------
+
+<a 
+href='https://wa.me/2348140825959' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/CONTACT-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+<a href='https://chat.whatsapp.com/LYOPu85NAVv4ymxOxCxRQY' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+<a href='https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-Channel-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
